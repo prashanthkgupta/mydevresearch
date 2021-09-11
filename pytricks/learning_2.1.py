@@ -16,5 +16,5 @@ li = [
     '3',
     '4',  # always place comma after set, dict and list
 ]
-li1 = [1, 2, 3, 4, 5]
 print(li)
+
