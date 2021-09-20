@@ -1,0 +1,5 @@
+# access all child objects
+Project.objects.get(title='ECommerse Website').review_set.all() # all the children relationships
+Project.objects.get(title='ECommerse Website').tags.all() # all the relationships
+
+
